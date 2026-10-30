@@ -1,6 +1,6 @@
-# ⚡ ISHAN DAHAKE
+# ⚡ Ishan Dahake
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:102A43,100:00D9FF&height=220&section=header&text=ISHAN%20DAHAKE&fontSize=55&fontColor=00D9FF&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:102A43,100:00D9FF&height=220&section=header&text=Ishan%20Dahake&fontSize=55&fontColor=00D9FF&animation=fadeIn)
 
 <h3 align="center">⚡ ENGINEERING THE FUTURE ⚡</h3>
 
@@ -33,7 +33,7 @@
 | 👻 Ghost Machine | Experimental autonomous system |
 | 📡 RFID Reader | Arduino-based RFID identification |
 | ⚡ Morse Code | LED Morse code communication |
-| 🌱 Energy Harvesting | Self-powered IoT sensor concept |
+| 🌱 Clean Energy | Solar Panel Fault Diagnosis |
 | 🤖 LED Matrix | Animated 8×8 display |
 
 ---
