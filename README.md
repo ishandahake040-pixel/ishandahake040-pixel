@@ -10,7 +10,7 @@
 
 ## 🧬 ABOUT ME
 
-- 🎓 First-year Electronics & Telecommunication Engineering student at DSCE.
+- 🎓 First-year Electronics & Telecommunication Engineering student at DSCE,Bengaluru
 - 💻 Learning C and C++ through programming and problem solving.
 - ⚡ Interested in Embedded Systems, VLSI, Semiconductor Design and Digital Electronics.
 - 🤖 Exploring Arduino, IoT and autonomous systems.
