@@ -4,7 +4,7 @@
 
 <h3 align="center">⚡ ENGINEERING THE FUTURE ⚡</h3>
 
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Electronics+%26+Telecommunication+Engineer;C%2B%2B+Developer;Exploring+Embedded+Systems;Future+VLSI+%26+Chip+Design+Engineer;Building+Ghost+Machine)
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Electronics+%26+Telecommunication+Engineer;C%2B%2B+Grinder;Exploring+Embedded+Systems;Future+VLSI+%26+Chip+Design+Engineer;Building+Ghost+Machine)
 
 ---
 
